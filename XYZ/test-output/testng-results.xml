@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45152" started-at="2020-05-24T08:05:59Z" finished-at="2020-05-24T08:06:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45152" started-at="2020-05-24T08:05:59Z" finished-at="2020-05-24T08:06:44Z">
+      <class name="com.testcases.Regressiontest">
+        <test-method status="PASS" signature="TC_001()[pri:1, instance:com.testcases.Regressiontest@36902638]" name="TC_001" duration-ms="4251" started-at="2020-05-24T08:05:59Z" finished-at="2020-05-24T08:06:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001 -->
+        <test-method status="PASS" signature="TC_002()[pri:2, instance:com.testcases.Regressiontest@36902638]" name="TC_002" duration-ms="4376" started-at="2020-05-24T08:06:03Z" finished-at="2020-05-24T08:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002 -->
+        <test-method status="PASS" signature="TC_003()[pri:3, instance:com.testcases.Regressiontest@36902638]" name="TC_003" duration-ms="28" started-at="2020-05-24T08:06:08Z" finished-at="2020-05-24T08:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003 -->
+        <test-method status="PASS" signature="TC_004()[pri:4, instance:com.testcases.Regressiontest@36902638]" name="TC_004" duration-ms="1206" started-at="2020-05-24T08:06:08Z" finished-at="2020-05-24T08:06:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_004 -->
+        <test-method status="PASS" signature="TC_005()[pri:5, instance:com.testcases.Regressiontest@36902638]" name="TC_005" duration-ms="2405" started-at="2020-05-24T08:06:09Z" finished-at="2020-05-24T08:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_005 -->
+        <test-method status="PASS" signature="TC_006()[pri:6, instance:com.testcases.Regressiontest@36902638]" name="TC_006" duration-ms="966" started-at="2020-05-24T08:06:11Z" finished-at="2020-05-24T08:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_006 -->
+        <test-method status="PASS" signature="TC_007()[pri:7, instance:com.testcases.Regressiontest@36902638]" name="TC_007" duration-ms="73" started-at="2020-05-24T08:06:12Z" finished-at="2020-05-24T08:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_007 -->
+        <test-method status="PASS" signature="TC_008()[pri:8, instance:com.testcases.Regressiontest@36902638]" name="TC_008" duration-ms="771" started-at="2020-05-24T08:06:12Z" finished-at="2020-05-24T08:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_008 -->
+        <test-method status="PASS" signature="TC_010()[pri:10, instance:com.testcases.Regressiontest@36902638]" name="TC_010" duration-ms="891" started-at="2020-05-24T08:06:13Z" finished-at="2020-05-24T08:06:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_010 -->
+        <test-method status="PASS" signature="TC_011()[pri:11, instance:com.testcases.Regressiontest@36902638]" name="TC_011" duration-ms="755" started-at="2020-05-24T08:06:14Z" finished-at="2020-05-24T08:06:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_011 -->
+        <test-method status="PASS" signature="TC_012()[pri:12, instance:com.testcases.Regressiontest@36902638]" name="TC_012" duration-ms="3377" started-at="2020-05-24T08:06:15Z" finished-at="2020-05-24T08:06:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_012 -->
+        <test-method status="PASS" signature="TC_013()[pri:13, instance:com.testcases.Regressiontest@36902638]" name="TC_013" duration-ms="2753" started-at="2020-05-24T08:06:18Z" finished-at="2020-05-24T08:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_013 -->
+        <test-method status="PASS" signature="TC_014()[pri:14, instance:com.testcases.Regressiontest@36902638]" name="TC_014" duration-ms="14985" started-at="2020-05-24T08:06:21Z" finished-at="2020-05-24T08:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_014 -->
+        <test-method status="PASS" signature="TC_015()[pri:15, instance:com.testcases.Regressiontest@36902638]" name="TC_015" duration-ms="3441" started-at="2020-05-24T08:06:36Z" finished-at="2020-05-24T08:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_015 -->
+        <test-method status="PASS" signature="TC_017()[pri:17, instance:com.testcases.Regressiontest@36902638]" name="TC_017" duration-ms="4167" started-at="2020-05-24T08:06:39Z" finished-at="2020-05-24T08:06:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_017 -->
+        <test-method status="PASS" signature="TC_018()[pri:18, instance:com.testcases.Regressiontest@36902638]" name="TC_018" duration-ms="612" started-at="2020-05-24T08:06:43Z" finished-at="2020-05-24T08:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_018 -->
+      </class> <!-- com.testcases.Regressiontest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
